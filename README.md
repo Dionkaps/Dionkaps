@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Dionkaps
+- 🌱 I’m currently studying software engineering
+- 📫 How to reach me vpddkf@gmail.com
