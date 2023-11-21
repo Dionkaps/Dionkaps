@@ -8,6 +8,6 @@ Here, you can dive into a myriad of repositories that reflect my passion and cur
 
 Feel free to explore and discover the diverse landscape of my coding adventures. 🚀
 
-📃 **Resume:** [Check out my CV](https://github.com/Dionkaps/CV/blob/main/Dionysios-Konstadinos%20Kapsimalis's%20Resume.pdf)
+📃 **Resume:** [Check out my CV](https://github.com/Dionkaps/CV/blob/main/Dionysios-Konsta...'s%20Resume.pdf)
 
 I hope you find something inspiring or intriguing. Enjoy your visit, and have an amazing day! 😊
