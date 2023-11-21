@@ -1,6 +1,13 @@
-### Hey there 👋<br>
-My name is Dionisis-Konstadinos Kapsimalis, and I'm on a journey of exploration, eager to discover all that the world has to offer.<br>
-To get to know me better click [here](https://dionkaps.github.io/kapkap.github.io/), for now I 'll just let you take a look on my repos in peace.<br>
-<br>
-I hope you enjoy the rest of your day 😊<br><br>
-📃Click [here](https://github.com/Dionkaps/CV/blob/main/Dionysios-Konsta...'s%20Resume.pdf) for my CV<br>
+# Hey there! 👋
+
+I'm Dionisis-Konstadinos Kapsimalis, on a journey of exploration to uncover the wonders of the world. 🌍
+
+🔍 **Explore More:** [dionkaps.dev](https://dionkaps.github.io/kapkap.github.io/)
+
+Here, you can dive into a myriad of repositories that reflect my passion and curiosity. From innovative projects to creative solutions, each repo tells a unique story.
+
+Feel free to explore and discover the diverse landscape of my coding adventures. 🚀
+
+📃 **Resume:** [Check out my CV](https://github.com/Dionkaps/CV/blob/main/Dionysios-Konstadinos%20Kapsimalis's%20Resume.pdf)
+
+I hope you find something inspiring or intriguing. Enjoy your visit, and have an amazing day! 😊
