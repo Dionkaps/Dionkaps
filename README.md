@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Dionisis-Konstadinos Kapsimalis, on a journey of exploration to uncover the wonders of the world. 🌍
+I'm Dionisis-Konstantinos Kapsimalis, on a journey of exploration to uncover the wonders of the world. 🌍
 
 🔍 **Explore More:** [dionkaps.dev](https://dionkaps.github.io/kapkap.github.io/)
 
